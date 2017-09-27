@@ -1,0 +1,40 @@
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe.config
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe.config
+C:\Users\Jérôme\Desktop\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.exe
+C:\Users\Jérôme\Desktop\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe
+C:\Users\Jérôme\Desktop\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.dll
+C:\Users\Jérôme\Desktop\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe.config
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.csprojResolveAssemblyReference.cache
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe.config
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.dll
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.pdb
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.csprojResolveAssemblyReference.cache
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.exe
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe.config
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\ConsoleShapeEtape02\bin\Debug\ConsoleShapeEtape02.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\ConsoleShapeEtape02\bin\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\ConsoleShapeEtape02\obj\Debug\ConsoleShapeEtape02.pdb

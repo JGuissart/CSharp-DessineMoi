@@ -1,0 +1,20 @@
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\DrawShapeLib\obj\Debug\DrawShapeLib.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\DrawShapeLib\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\DrawShapeLib\bin\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\DrawShapeLib\obj\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\DrawShapeLib\obj\Debug\DrawShapeLib.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\DrawShapeLib\bin\Debug\DrawShapeLib.dll
+C:\Users\Jérôme\Desktop\C#_Dossier2\DrawShapeLib\bin\Debug\DrawShapeLib.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\DrawShapeLib\obj\Debug\DrawShapeLib.csprojResolveAssemblyReference.cache
+C:\Users\Jérôme\Desktop\C#_Dossier2\DrawShapeLib\obj\Debug\DrawShapeLib.dll
+C:\Users\Jérôme\Desktop\C#_Dossier2\DrawShapeLib\obj\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\DrawShapeLib\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\DrawShapeLib\bin\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\DrawShapeLib\obj\Debug\DrawShapeLib.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\DrawShapeLib\obj\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\DrawShapeLib\obj\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\DrawShapeLib\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\DrawShapeLib\bin\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\DrawShapeLib\obj\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\DrawShapeLib\obj\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\DrawShapeLib\obj\Debug\DrawShapeLib.csprojResolveAssemblyReference.cache

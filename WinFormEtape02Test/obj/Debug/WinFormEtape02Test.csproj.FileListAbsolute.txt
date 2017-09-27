@@ -1,0 +1,58 @@
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe.config
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.Form1.resources
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.Properties.Resources.resources
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csproj.GenerateResource.Cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\Etape02\WinFormEtape02Test\bin\Debug\DrawShapeLib.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe.config
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.exe
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\bin\Debug\DrawShapeLib.dll
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\bin\Debug\DrawShapeLib.pdb
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csprojResolveAssemblyReference.cache
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.Form1.resources
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.Properties.Resources.resources
+C:\Users\Jérôme\Desktop\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csproj.GenerateResource.Cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe.config
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\bin\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.Properties.Resources.resources
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csproj.GenerateResource.Cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.MainForm.resources
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.ComplexForm.resources
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe.config
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.exe
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.pdb
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.pdb
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\bin\Debug\DrawShapeLib.dll
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\bin\Debug\DrawShapeLib.pdb
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csprojResolveAssemblyReference.cache
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.MainForm.resources
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.ComplexForm.resources
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.Properties.Resources.resources
+C:\Users\Jérôme\Desktop\JeuxTestsApplic\C#_Dossier2\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csproj.GenerateResource.Cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe.config
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\bin\Debug\WinFormEtape02Test.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\bin\Debug\DrawShapeLib.dll
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\bin\Debug\DrawShapeLib.pdb
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csprojResolveAssemblyReference.cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.MainForm.resources
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.ComplexForm.resources
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.Properties.Resources.resources
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.csproj.GenerateResource.Cache
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.exe
+C:\Users\Julien\Documents\Visual Studio 2012\Projects\ComplexeShapeOpe\WinFormEtape02Test\obj\Debug\WinFormEtape02Test.pdb
